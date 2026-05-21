@@ -1,0 +1,1844 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>202605211947169OO590</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260521194716HDHXSB</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>INSPIRING PEOPLE</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>WHO INSPIRES YOU?</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Ramón Mesa </value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>En esta unidad los alumnos aprenderán a entender y usar correctamente palabras relacionadas con la descripción de personas, a entender y usar correctamente el past simple y continuous, when, while, subject y object questions, y reconocerlos mediante la lectura de un artículo, a escuchar y entender una entrevista radiofónica sobre un adolescente, a practicar una conversación dando opiniones, a escribir un perfil y a diseñar un vídeo de alguien que nos inspira.
+Los Contenidos Inter-curriculares que se tocan en esta unidad, están relacionados con las Ciencias Sociales, al tratar el tema de las cualidades personales y las profesiones.
+Los Temas Transversales que podemos encontrar en esta unidad tienen que ver con:
+•	Educación para la Paz: La importancia de ayudar a los demás.
+•	Educación para la salud: La importancia de lavarse las manos para estar sanos. 
+•	Educación moral y cívica: La importancia de aceptarse a sí mismo
+NIVEL.
+3º ESO
+
+TEMPORALIZACIÓN.
+12 sesiones de 55 minutos
+
+MATERIA.
+Inglés
+IDIOMA.
+Inglés
+DESCRIPCIÓN GENERAL.
+En esta SdA, el alumnado trabajará con una serie de ejercicios y actividades encaminados a una tarea final donde tendrá que grabar un video sobre una persona que le inspire (ya sea conocido o no. Puede ser desde algún personaje histórico como la madre Teresa de Calcuta a algún miembro de su familia como su padre, madre, abuelo, etc.)
+Para ello:
+•	Los alumnos aprenden adjetivos de personalidad, repasan los antónimos y hacen y responden preguntas sobre cualidades personales.
+•	Los alumnos ojean un artículo de una revista sobre gente sorprendente para obtener la idea principal y después comentan cómo algunas personas pueden inspirar a otras.
+•	Los alumnos aprenden y practican la forma y uso de used to y del past simple y past continuous con when y while.
+•	Los alumnos aprenden patrones de verbos y collocations y practican cómo predecir lo que van a escuchar en una entrevista de radio.
+•	Los alumnos comparan preguntas de sujeto y objeto.
+•	Los alumnos aprenden expresiones clave y adjetivos para pedir y dar opiniones y los utilizan en un diálogo para hablar sobre una visita o una experiencia.
+•	Los alumnos escriben un perfil mediante el uso de conjunciones. 
+•	Los alumnos repasan el vocabulario y la gramática de la unidad.
+•	Los alumnos crean un vídeo sobre una persona inspiradora y aprenden cosas sobre la comunicación verbal y no verbal para hacer presentaciones efectivas
+
+JUSTIFICACIÓN.
+La presente situación de aprendizaje se fundamenta en la reflexión realizada previamente sobre mi práctica docente, en la que se identificaron tanto fortalezas como aspectos de mejora en el uso de metodologías activas y herramientas digitales en el aula.
+En dicha reflexión destaqué como fortalezas el uso habitual de tareas finales, el trabajo cooperativo y la integración progresiva de herramientas digitales. Sin embargo, también se evidenciaron algunas dificultades, como la dependencia de los recursos tecnológicos disponibles, la desigual implicación del alumnado en el trabajo en grupo y el desarrollo desigual de la competencia digital.
+En respuesta a estas conclusiones, esta situación de aprendizaje se ha diseñado de manera flexible, permitiendo adaptaciones y alternativas que garanticen su desarrollo incluso en contextos con acceso limitado a dispositivos, incorporando así posibles planes alternativos ante incidencias técnicas.
+Asimismo, esta propuesta pretende mejorar la implicación del alumnado y fomentar su responsabilidad individual dentro del trabajo en grupo. A través de una secuencia de actividades progresivas y una tarea final motivadora y cercana a su realidad, se busca favorecer su participación activa y su implicación en el proceso de aprendizaje.
+La creación del vídeo como producto final contribuye de manera significativa al desarrollo de la competencia en comunicación lingüística, especialmente en la expresión oral, al mismo tiempo que potencia la competencia digital del alumnado, no solo desde un punto de vista técnico, sino también en aspectos como la planificación, la comunicación audiovisual y el uso responsable de los recursos digitales.
+Por otro lado, la secuencia de actividades está diseñada para asegurar que todo el alumnado adquiera los conocimientos lingüísticos necesarios antes de enfrentarse a la tarea final, favoreciendo así una mayor autonomía y reduciendo posibles desigualdades en la implicación.
+Finalmente, esta propuesta permite trabajar valores transversales como la empatía, el respeto, la superación personal y la ciudadanía digital responsable, aspectos fundamentales en el contexto educativo actual.
+En definitiva, esta situación de aprendizaje surge como una mejora consciente de mi práctica docente, integrando tecnología y metodologías activas de forma reflexiva, planificada y adaptada a la realidad del aula.
+</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>en</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>public domain</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1779385627435</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mpfs9d6h-2etyr5e2g</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>TU SEGURIDAD DIGITAL IMPORTA</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>TU SEGURIDAD DIGITAL IMPORTA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>TU SEGURIDAD DIGITAL IMPORTA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpfs9d6h-2etyr5e2g</odePageId>
+      <odeBlockId>block-1779374422464-1l4mvljnn</odeBlockId>
+      <blockName>Recomendaciones</blockName>
+      <iconName>geography</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpfs9d6h-2etyr5e2g</odePageId>
+          <odeBlockId>block-1779374422464-1l4mvljnn</odeBlockId>
+          <odeIdeviceId>idevice-1779374422462-hfkdtfrxi</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Ante de empezar con la unidad, te voy a enseñar una serie de recomendaciones para que te sientas seguro a la hora de realizar tus trabajos digitales o de expresarte con su identidad digital. En la siguiente infografía tienes indicaciones fundamentales sobre protección de datos personales y garantías de derechos digitales.</p>
+<p> <a href="https://gamma.app/docs/Tu-Seguridad-Digital-Importa-kqi6mfr5ho2usry?mode=doc" title="">Enlace</a> al recurso.</p>
+<figure class="exe-figure position-center" style="width: 1536px;"><img src="{{context_path}}/content/resources/pexels-tima-miroshnichenko-5380642.jpg" width="1536" height="1024" alt="" />
+<figcaption class="figcaption"><span class="author">pexels</span>. <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en" class="license" target="_blank" rel="noopener">CC0</a><span class="sep">)</span></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779374422462-hfkdtfrxi","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Ante de empezar con la unidad, te voy a enseñar una serie de recomendaciones para que te sientas seguro a la hora de realizar tus trabajos digitales o de expresarte con su identidad digital. En la siguiente infografía tienes indicaciones fundamentales sobre protección de datos personales y garantías de derechos digitales.</p>\n<p> <a href=\"https://gamma.app/docs/Tu-Seguridad-Digital-Importa-kqi6mfr5ho2usry?mode=doc\" title=\"\">Enlace</a> al recurso.</p>\n<figure class=\"exe-figure position-center\" style=\"width: 1536px;\"><img src=\"{{context_path}}/content/resources/pexels-tima-miroshnichenko-5380642.jpg\" width=\"1536\" height=\"1024\" alt=\"\" />\n<figcaption class=\"figcaption\"><span class=\"author\">pexels</span>. <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/publicdomain/zero/1.0/deed.en\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC0</a><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpfs9d6k-e9ih3gl0v</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>CONTENTS</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CONTENTS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CONTENTS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpfs9d6k-e9ih3gl0v</odePageId>
+      <odeBlockId>block-1779295988028-w3b9gff7e</odeBlockId>
+      <blockName>In this unit, you&apos;re going to</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpfs9d6k-e9ih3gl0v</odePageId>
+          <odeBlockId>block-1779295988028-w3b9gff7e</odeBlockId>
+          <odeIdeviceId>idevice-1779295988026-w7dix0poe</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li>Watch a video and talk about people who inspire others.</li>
+<li>Practise past simple.</li>
+<li>Practise some vocabulary connected with occupations and people who try to change the world. Personality adjectives.</li>
+<li>Talk about what / who inspires you.</li>
+</ul>
+<figure class="exe-figure position-center" style="width: 612px;"><img src="{{context_path}}/content/resources/istockphoto-1255203350-612x612.jpg" width="612" height="408" alt="" />
+<figcaption class="figcaption"><span class="author">pexels</span>. <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en" class="license" target="_blank" rel="noopener">CC0</a><span class="sep">)</span></span></figcaption>
+</figure>
+<p>In this <strong><a href="https://www.canva.com/design/DAHKCR5fHbM/TyfD7ATKmp_iFd2jzNDc9Q/edit" title="">LINK </a></strong>you can have a look at the different steps in the project.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779295988026-w7dix0poe","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li>Watch a video and talk about people who inspire others.</li>\n<li>Practise past simple.</li>\n<li>Practise some vocabulary connected with occupations and people who try to change the world. Personality adjectives.</li>\n<li>Talk about what / who inspires you.</li>\n</ul>\n<figure class=\"exe-figure position-center\" style=\"width: 612px;\"><img src=\"{{context_path}}/content/resources/istockphoto-1255203350-612x612.jpg\" width=\"612\" height=\"408\" alt=\"\" />\n<figcaption class=\"figcaption\"><span class=\"author\">pexels</span>. <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/publicdomain/zero/1.0/deed.en\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC0</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p>In this <strong><a href=\"https://www.canva.com/design/DAHKCR5fHbM/TyfD7ATKmp_iFd2jzNDc9Q/edit\" title=\"\">LINK </a></strong>you can have a look at the different steps in the project.</p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpfs9d6l-4nxo2esv2</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>DISCUSS 1</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>DISCUSS 1</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>DISCUSS 1</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>DISCUSS 1</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpfs9d6l-4nxo2esv2</odePageId>
+      <odeBlockId>block-1779296289380-fegtnzo0o</odeBlockId>
+      <blockName>Discuss</blockName>
+      <iconName>present</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpfs9d6l-4nxo2esv2</odePageId>
+          <odeBlockId>block-1779296289380-fegtnzo0o</odeBlockId>
+          <odeIdeviceId>idevice-1779296289379-viy32x5oh</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li>What does <span style="color: #000000;"><strong>inspiring </strong></span>mean?</li>
+<li>What kind of people or things inspire you?</li>
+<li>In what jobs is it necessary to try and inspire people?</li>
+<li>Why do people try to inspire others?</li>
+</ul>
+<figure class="exe-figure position-center" style="width: 1536px;"><img src="{{context_path}}/content/resources/pexels-magda-ehlers-pexels-4116636.jpg" width="1536" height="995" alt="" />
+<figcaption class="figcaption"><span class="author">pexels</span>. <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en" class="license" target="_blank" rel="noopener">CC0</a><span class="sep">)</span></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779296289379-viy32x5oh","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li>What does <span style=\"color: #000000;\"><strong>inspiring </strong></span>mean?</li>\n<li>What kind of people or things inspire you?</li>\n<li>In what jobs is it necessary to try and inspire people?</li>\n<li>Why do people try to inspire others?</li>\n</ul>\n<figure class=\"exe-figure position-center\" style=\"width: 1536px;\"><img src=\"{{context_path}}/content/resources/pexels-magda-ehlers-pexels-4116636.jpg\" width=\"1536\" height=\"995\" alt=\"\" />\n<figcaption class=\"figcaption\"><span class=\"author\">pexels</span>. <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/publicdomain/zero/1.0/deed.en\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC0</a><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpfs9d6m-p7irkh1ou</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>DISCUSS 2</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>DISCUSS 2</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>DISCUSS 2</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>DISCUSS 2</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpfs9d6m-p7irkh1ou</odePageId>
+      <odeBlockId>block-1779296611539-yejkkzbvc</odeBlockId>
+      <blockName>Look at the photos below</blockName>
+      <iconName>present</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpfs9d6m-p7irkh1ou</odePageId>
+          <odeBlockId>block-1779296611539-yejkkzbvc</odeBlockId>
+          <odeIdeviceId>idevice-1779296611538-1g89fa4e5</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li>How many of them do you know?</li>
+<li>What do you know about them?<br /></li>
+</ul>
+<p> </p>
+<figure class="exe-figure position-center" style="width: 952px;"><img src="{{context_path}}/content/resources/inspiring people.jpg" width="952" height="595" alt="" />
+<figcaption class="figcaption"><span class="author">CHESTNUT ESL/EFL</span>. <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en" class="license" target="_blank" rel="noopener">CC0</a><span class="sep">)</span></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779296611538-1g89fa4e5","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li>How many of them do you know?</li>\n<li>What do you know about them?<br /></li>\n</ul>\n<p> </p>\n<figure class=\"exe-figure position-center\" style=\"width: 952px;\"><img src=\"{{context_path}}/content/resources/inspiring people.jpg\" width=\"952\" height=\"595\" alt=\"\" />\n<figcaption class=\"figcaption\"><span class=\"author\">CHESTNUT ESL/EFL</span>. <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/publicdomain/zero/1.0/deed.en\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC0</a><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpfs9d6m-i4sp8yajn</odePageId>
+  <odeParentPageId>page-mpfs9d6m-p7irkh1ou</odeParentPageId>
+  <pageName>ANSWERS</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>ANSWERS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>ANSWERS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpfs9d6m-i4sp8yajn</odePageId>
+      <odeBlockId>block-1779297036327-1rlvwcy2g</odeBlockId>
+      <blockName>Look at the photos below</blockName>
+      <iconName>present</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpfs9d6m-i4sp8yajn</odePageId>
+          <odeBlockId>block-1779297036327-1rlvwcy2g</odeBlockId>
+          <odeIdeviceId>idevice-1779297036326-xj89q4jil</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure position-center" style="width: 952px;"><img src="{{context_path}}/content/resources/inspiring people.jpg" width="952" height="595" alt="" />
+<figcaption class="figcaption"><span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY-NC</a><span class="sep">)</span></span></figcaption>
+</figure>
+<p>Top left to right - Mother Teresa, Winston Churchill, Muhammad Ali, Che Guevara, Bob Marley,</p>
+<p>Rosa Parks, Nelson Mandela, Martin Luther King, Mohandas Gandhi, Emmeline Pankhurst</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779297036326-xj89q4jil","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure position-center\" style=\"width: 952px;\"><img src=\"{{context_path}}/content/resources/inspiring people.jpg\" width=\"952\" height=\"595\" alt=\"\" />\n<figcaption class=\"figcaption\"><span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY-NC</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p>Top left to right - Mother Teresa, Winston Churchill, Muhammad Ali, Che Guevara, Bob Marley,</p>\n<p>Rosa Parks, Nelson Mandela, Martin Luther King, Mohandas Gandhi, Emmeline Pankhurst</p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpfs9d6n-potxgrddg</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>DISCUSS 3</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>DISCUSS 3</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>DISCUSS 3</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpfs9d6n-potxgrddg</odePageId>
+      <odeBlockId>block-1779297542157-6u27d27t9</odeBlockId>
+      <blockName>Discuss</blockName>
+      <iconName>present</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpfs9d6n-potxgrddg</odePageId>
+          <odeBlockId>block-1779297542157-6u27d27t9</odeBlockId>
+          <odeIdeviceId>idevice-1779297542156-4pdi8wvno</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li>Who do you think is the most inspiring?</li>
+<li>Why?</li>
+<li>Watch the clip. Do you agree with the choice of people</li>
+</ul>
+<p><br /></p>
+<figure class="exe-figure exe-media position-center license-standard-youtube" style="width: 900px;"><iframe width="900" height="450" src="https://www.youtube.com/embed/E5fDi9CaNys" allowfullscreen="allowfullscreen"></iframe>
+<figcaption class="figcaption"><span class="author">Youtube</span> <span class="license"><span class="sep">(</span><a href="https://www.youtube.com/static?template=terms" rel="license nofollow noopener" target="_blank">Licencia de YouTube estándar</a><span class="sep">)</span></span></figcaption>
+</figure>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779297542156-4pdi8wvno","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li>Who do you think is the most inspiring?</li>\n<li>Why?</li>\n<li>Watch the clip. Do you agree with the choice of people</li>\n</ul>\n<p><br /></p>\n<figure class=\"exe-figure exe-media position-center license-standard-youtube\" style=\"width: 900px;\"><iframe width=\"900\" height=\"450\" src=\"https://www.youtube.com/embed/E5fDi9CaNys\" allowfullscreen=\"allowfullscreen\"></iframe>\n<figcaption class=\"figcaption\"><span class=\"author\">Youtube</span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"https://www.youtube.com/static?template=terms\" rel=\"license nofollow noopener\" target=\"_blank\">Licencia de YouTube estándar</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p><br /></p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpfs9d6n-m6hnt2o46</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>DESCRIBING PEOPLE</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>DESCRIBING PEOPLE</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>DESCRIBING PEOPLE</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpfs9d6n-m6hnt2o46</odePageId>
+      <odeBlockId>block-1779298356163-8cshhepvs</odeBlockId>
+      <blockName>Vocabulary: describing character</blockName>
+      <iconName>think</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpfs9d6n-m6hnt2o46</odePageId>
+          <odeBlockId>block-1779298356163-8cshhepvs</odeBlockId>
+          <odeIdeviceId>idevice-1779298356162-4i7wqg1l9</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><a href="https://drive.google.com/file/d/1PzGvVe0DL3S9ZSDrEHgFwDqfiFf9wQkZ/view?usp=sharing" title="">Here</a> you are a list with vocabulary to describe character.</p>
+<p>Practice some vocabulary to describe people with these games.</p>
+<p><a href="https://www.baamboozle.com/game/139665" title="">Baamboozle 1</a></p>
+<p><a href="https://www.baamboozle.com/game/117313" title="">Baamboozle 2</a></p>
+<figure class="exe-figure position-center" style="width: 1536px;"><img src="{{context_path}}/content/resources/pexels-mart-production-7550290.jpg" width="1536" height="1024" alt="" />
+<figcaption class="figcaption"><span class="author">pexels</span>. <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en" class="license" target="_blank" rel="noopener">CC0</a><span class="sep">)</span></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779298356162-4i7wqg1l9","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"https://drive.google.com/file/d/1PzGvVe0DL3S9ZSDrEHgFwDqfiFf9wQkZ/view?usp=sharing\" title=\"\">Here</a> you are a list with vocabulary to describe character.</p>\n<p>Practice some vocabulary to describe people with these games.</p>\n<p><a href=\"https://www.baamboozle.com/game/139665\" title=\"\">Baamboozle 1</a></p>\n<p><a href=\"https://www.baamboozle.com/game/117313\" title=\"\">Baamboozle 2</a></p>\n<figure class=\"exe-figure position-center\" style=\"width: 1536px;\"><img src=\"{{context_path}}/content/resources/pexels-mart-production-7550290.jpg\" width=\"1536\" height=\"1024\" alt=\"\" />\n<figcaption class=\"figcaption\"><span class=\"author\">pexels</span>. <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/publicdomain/zero/1.0/deed.en\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC0</a><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpfs9d6o-nqwzb17o4</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>LET&apos;S TALK ABOUT JOBS AND OCCUPATIONS</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>LET&apos;S TALK ABOUT JOBS AND OCCUPATIONS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>LET&apos;S TALK ABOUT JOBS AND OCCUPATIONS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpfs9d6o-nqwzb17o4</odePageId>
+      <odeBlockId>block-1779376020945-emohg56fz</odeBlockId>
+      <blockName>Jobs and occupations</blockName>
+      <iconName>present</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpfs9d6o-nqwzb17o4</odePageId>
+          <odeBlockId>block-1779376020945-emohg56fz</odeBlockId>
+          <odeIdeviceId>idevice-1779376020944-1icw42l95</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Let's work with some vocabulary related to jobs and occupations. Click on the links below and do the exercises.</p>
+<p><a href="https://agendaweb.org/exercises/vocabulary/jobs/jobs-occupations-quiz-1" title="">Jobs & professions 1</a></p>
+<p><a href="https://agendaweb.org/exercises/vocabulary/jobs/jobs-occupations-quiz-2" title="">Jobs and professions 2</a></p>
+<p><a href="https://agendaweb.org/exercises/vocabulary/jobs/jobs-occupations-quiz-3" title="">Jobs and professions 3</a></p>
+<p><a href="https://agendaweb.org/exercises/vocabulary/jobs/jobs-occupations-quiz-4" title="">Jobs and professions 4</a></p>
+<p><br /></p>
+<p>Now, let's work with some more vocabulary. Click on the links below and do the exercises.</p>
+<p><a href="https://www.internationalschooltutors.de/English/activities/vocabulary/match2/people.html" title="">People: quiz</a></p>
+<p><a href="https://www.vocabulary.cl/Games/Professions.htm" title="">Professions and occupations: game</a></p>
+<figure class="exe-figure position-center" style="width: 1536px;"><img src="{{context_path}}/content/resources/pexels-amina-filkins-5560080.jpg" width="1536" height="1024" alt="" />
+<figcaption class="figcaption"><span class="author">pexels</span>. <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en" class="license" target="_blank" rel="noopener">CC0</a><span class="sep">)</span></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779376020944-1icw42l95","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Let's work with some vocabulary related to jobs and occupations. Click on the links below and do the exercises.</p>\n<p><a href=\"https://agendaweb.org/exercises/vocabulary/jobs/jobs-occupations-quiz-1\" title=\"\">Jobs & professions 1</a></p>\n<p><a href=\"https://agendaweb.org/exercises/vocabulary/jobs/jobs-occupations-quiz-2\" title=\"\">Jobs and professions 2</a></p>\n<p><a href=\"https://agendaweb.org/exercises/vocabulary/jobs/jobs-occupations-quiz-3\" title=\"\">Jobs and professions 3</a></p>\n<p><a href=\"https://agendaweb.org/exercises/vocabulary/jobs/jobs-occupations-quiz-4\" title=\"\">Jobs and professions 4</a></p>\n<p><br /></p>\n<p>Now, let's work with some more vocabulary. Click on the links below and do the exercises.</p>\n<p><a href=\"https://www.internationalschooltutors.de/English/activities/vocabulary/match2/people.html\" title=\"\">People: quiz</a></p>\n<p><a href=\"https://www.vocabulary.cl/Games/Professions.htm\" title=\"\">Professions and occupations: game</a></p>\n<figure class=\"exe-figure position-center\" style=\"width: 1536px;\"><img src=\"{{context_path}}/content/resources/pexels-amina-filkins-5560080.jpg\" width=\"1536\" height=\"1024\" alt=\"\" />\n<figcaption class=\"figcaption\"><span class=\"author\">pexels</span>. <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/publicdomain/zero/1.0/deed.en\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC0</a><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpfs9d6p-qevokqe8h</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>LET&apos;S TALK ABOUT THE PAST</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>LET&apos;S TALK ABOUT THE PAST</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>LET&apos;S TALK ABOUT THE PAST</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpfs9d6p-qevokqe8h</odePageId>
+      <odeBlockId>block-1779376815361-q9du1wry2</odeBlockId>
+      <blockName>THE PAST</blockName>
+      <iconName>present</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpfs9d6p-qevokqe8h</odePageId>
+          <odeBlockId>block-1779376815361-q9du1wry2</odeBlockId>
+          <odeIdeviceId>idevice-1779376815357-9l5xlquun</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Let's talk about the past. </p>
+<p><a href="https://drive.google.com/file/d/1AyOjvhzUnodNpKB1Q97_xZtFVLQhzOw3/view" title="">Grammar reference</a></p>
+<p><a href="https://elt.oup.com/student/grammarfriends/level05/tests/test4?cc=ro&selLanguage=en" title="">The past continuous and the past simple; 'Used to'</a></p>
+<p><br /></p>
+<p>Now, let's play some games.</p>
+<p><a href="https://create.kahoot.it/share/past-simple-past-continuous-and-used-to/2b8ca83c-50e5-4e47-8553-55c857858e8f" title="">Kahoot 1</a></p>
+<p><a href="https://create.kahoot.it/share/past-simple-continuous-and-used-to/187f71a0-db36-4114-8dc3-3fde4b86eb13" title="">Kahoot 2</a></p>
+<p><a href="https://wordwall.net/es/resource/5235161/past-simple-past-continuous-used-to-would" title="">Wordwall</a></p>
+<figure class="exe-figure position-center" style="width: 612px;"><img src="{{context_path}}/content/resources/istockphoto-1141698564-612x612.jpg" width="612" height="408" alt="" />
+<figcaption class="figcaption"><span class="author">pexels</span>. <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en" class="license" target="_blank" rel="noopener">CC0</a><span class="sep">)</span></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779376815357-9l5xlquun","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Let's talk about the past. </p>\n<p><a href=\"https://drive.google.com/file/d/1AyOjvhzUnodNpKB1Q97_xZtFVLQhzOw3/view\" title=\"\">Grammar reference</a></p>\n<p><a href=\"https://elt.oup.com/student/grammarfriends/level05/tests/test4?cc=ro&selLanguage=en\" title=\"\">The past continuous and the past simple; 'Used to'</a></p>\n<p><br /></p>\n<p>Now, let's play some games.</p>\n<p><a href=\"https://create.kahoot.it/share/past-simple-past-continuous-and-used-to/2b8ca83c-50e5-4e47-8553-55c857858e8f\" title=\"\">Kahoot 1</a></p>\n<p><a href=\"https://create.kahoot.it/share/past-simple-continuous-and-used-to/187f71a0-db36-4114-8dc3-3fde4b86eb13\" title=\"\">Kahoot 2</a></p>\n<p><a href=\"https://wordwall.net/es/resource/5235161/past-simple-past-continuous-used-to-would\" title=\"\">Wordwall</a></p>\n<figure class=\"exe-figure position-center\" style=\"width: 612px;\"><img src=\"{{context_path}}/content/resources/istockphoto-1141698564-612x612.jpg\" width=\"612\" height=\"408\" alt=\"\" />\n<figcaption class=\"figcaption\"><span class=\"author\">pexels</span>. <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/publicdomain/zero/1.0/deed.en\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC0</a><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpfs9d6p-8c1w5w1dj</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>READING COMPREHENSION</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>READING COMPREHENSION</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>READING COMPREHENSION</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpfs9d6p-8c1w5w1dj</odePageId>
+      <odeBlockId>block-1779377246442-6npp15vd9</odeBlockId>
+      <blockName>Reading comprehension</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpfs9d6p-8c1w5w1dj</odePageId>
+          <odeBlockId>block-1779377246442-6npp15vd9</odeBlockId>
+          <odeIdeviceId>idevice-1779377246441-0jxbwqqla</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Time to read about an important person. Read the following text and answer the questions.</p>
+<p><a href="https://drive.google.com/file/d/1uN5jA0s0C6mev_wdkgQCDf39wlFUf7Bl/view" title="">Hellen Keller</a></p>
+<figure class="exe-figure position-center" style="width: 1536px;"><img src="{{context_path}}/content/resources/pexels-tima-miroshnichenko-5303652.jpg" width="1536" height="1024" alt="" />
+<figcaption class="figcaption"><span class="author">pexels</span>. <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en" class="license" target="_blank" rel="noopener">CC0</a><span class="sep">)</span></span></figcaption>
+</figure>
+<p>👉 Remember that in <a href="https://thatsenglishramon.blogspot.com/" title=""><strong>this blog</strong></a> you can access many more resources classified by skills.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779377246441-0jxbwqqla","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Time to read about an important person. Read the following text and answer the questions.</p>\n<p><a href=\"https://drive.google.com/file/d/1uN5jA0s0C6mev_wdkgQCDf39wlFUf7Bl/view\" title=\"\">Hellen Keller</a></p>\n<figure class=\"exe-figure position-center\" style=\"width: 1536px;\"><img src=\"{{context_path}}/content/resources/pexels-tima-miroshnichenko-5303652.jpg\" width=\"1536\" height=\"1024\" alt=\"\" />\n<figcaption class=\"figcaption\"><span class=\"author\">pexels</span>. <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/publicdomain/zero/1.0/deed.en\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC0</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p>👉 Remember that in <a href=\"https://thatsenglishramon.blogspot.com/\" title=\"\"><strong>this blog</strong></a> you can access many more resources classified by skills.</p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpfs9d6q-uhxyq2wzy</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>LISTENING COMPREHENSION</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>LISTENING COMPREHENSION</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>LISTENING COMPREHENSION</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpfs9d6q-uhxyq2wzy</odePageId>
+      <odeBlockId>block-1779377697934-hoobz1jcy</odeBlockId>
+      <blockName>Listening comprehension</blockName>
+      <iconName>listen</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpfs9d6q-uhxyq2wzy</odePageId>
+          <odeBlockId>block-1779377697934-hoobz1jcy</odeBlockId>
+          <odeIdeviceId>idevice-1779377697933-p7ydl6j6m</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Listen to the speakers talking about important people in their lives and do the exercises to practise and<br />improve your listening skills.</p>
+<p><strong><a href="https://drive.google.com/file/d/1UwJNj2Tuq0nlDaET3zNmuT9xHoKn28mu/view" title="">CLICK</a> </strong>here.</p>
+<p><strong><a href="https://drive.google.com/file/d/1uerSp9efb6Ih0tszYwSbUAQ4S74NrQk_/view" title="">AUDIO</a></strong></p>
+<figure class="exe-figure position-center" style="width: 1536px;"><img src="{{context_path}}/content/resources/pexels-stasknop-5939401.jpg" width="1536" height="1024" alt="" />
+<figcaption class="figcaption"><span class="author">pexels</span>. <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en" class="license" target="_blank" rel="noopener">CC0</a><span class="sep">)</span></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779377697933-p7ydl6j6m","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Listen to the speakers talking about important people in their lives and do the exercises to practise and<br />improve your listening skills.</p>\n<p><strong><a href=\"https://drive.google.com/file/d/1UwJNj2Tuq0nlDaET3zNmuT9xHoKn28mu/view\" title=\"\">CLICK</a> </strong>here.</p>\n<p><strong><a href=\"https://drive.google.com/file/d/1uerSp9efb6Ih0tszYwSbUAQ4S74NrQk_/view\" title=\"\">AUDIO</a></strong></p>\n<figure class=\"exe-figure position-center\" style=\"width: 1536px;\"><img src=\"{{context_path}}/content/resources/pexels-stasknop-5939401.jpg\" width=\"1536\" height=\"1024\" alt=\"\" />\n<figcaption class=\"figcaption\"><span class=\"author\">pexels</span>. <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/publicdomain/zero/1.0/deed.en\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC0</a><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpfs9d6q-y0vjwpfy1</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>COLLOCATIONS</pageName>
+  <odeNavStructureOrder>10</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>COLLOCATIONS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>COLLOCATIONS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpfs9d6q-y0vjwpfy1</odePageId>
+      <odeBlockId>block-1779377969741-1qu4k9uiz</odeBlockId>
+      <blockName>Collocations</blockName>
+      <iconName>think</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpfs9d6q-y0vjwpfy1</odePageId>
+          <odeBlockId>block-1779377969741-1qu4k9uiz</odeBlockId>
+          <odeIdeviceId>idevice-1779377969740-zpwj2lvle</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Some verbs and nouns are often used together; this is called collocation. Let's practice with some examples.</p>
+<p><a href="https://drive.google.com/file/d/1yTsVSJG5MixCJ82fojqDZc01zt4pocOE/view" title="">Helping others</a></p>
+<p><a href="https://drive.google.com/file/d/13svPipKgn-fEsFvruyJb-kHboQzNuYoj/view" title="">Collocations: do, have, make, take.</a></p>
+<p>Let's play a game:</p>
+<p><a href="https://wordwall.net/resource/33511805/verb-noun-collocations" title="">Verb + noun collocations</a></p>
+<figure class="exe-figure position-center" style="width: 1536px;"><img src="{{context_path}}/content/resources/pexels-aedrian-11942038.jpg" width="1536" height="2304" alt="" />
+<figcaption class="figcaption"><span class="author">pexels</span>. <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en" class="license" target="_blank" rel="noopener">CC0</a><span class="sep">)</span></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779377969740-zpwj2lvle","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Some verbs and nouns are often used together; this is called collocation. Let's practice with some examples.</p>\n<p><a href=\"https://drive.google.com/file/d/1yTsVSJG5MixCJ82fojqDZc01zt4pocOE/view\" title=\"\">Helping others</a></p>\n<p><a href=\"https://drive.google.com/file/d/13svPipKgn-fEsFvruyJb-kHboQzNuYoj/view\" title=\"\">Collocations: do, have, make, take.</a></p>\n<p>Let's play a game:</p>\n<p><a href=\"https://wordwall.net/resource/33511805/verb-noun-collocations\" title=\"\">Verb + noun collocations</a></p>\n<figure class=\"exe-figure position-center\" style=\"width: 1536px;\"><img src=\"{{context_path}}/content/resources/pexels-aedrian-11942038.jpg\" width=\"1536\" height=\"2304\" alt=\"\" />\n<figcaption class=\"figcaption\"><span class=\"author\">pexels</span>. <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/publicdomain/zero/1.0/deed.en\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC0</a><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpfs9d6r-xqw4ulvev</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>WRITTEN PRODUCTION</pageName>
+  <odeNavStructureOrder>11</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>WRITTEN PRODUCTION</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>WRITTEN PRODUCTION</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpfs9d6r-xqw4ulvev</odePageId>
+      <odeBlockId>block-1779378259270-uzzfkopcr</odeBlockId>
+      <blockName>Writing</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpfs9d6r-xqw4ulvev</odePageId>
+          <odeBlockId>block-1779378259270-uzzfkopcr</odeBlockId>
+          <odeIdeviceId>idevice-1779378259268-9qrz0m8qe</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>A profile. Write a profile of an inspiring person. </p>
+<p><strong><a href="https://drive.google.com/file/d/1CPHpnrwqEG1I6AIttZ4mUQnl-L6_bXtf/view" title="">CLICK</a> </strong>here.</p>
+<figure class="exe-figure position-center" style="width: 612px;"><img src="{{context_path}}/content/resources/istockphoto-1461537129-612x612.jpg" width="612" height="408" alt="" />
+<figcaption class="figcaption"><span class="author">pexels</span>. <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en" class="license" target="_blank" rel="noopener">CC0</a><span class="sep">)</span></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779378259268-9qrz0m8qe","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>A profile. Write a profile of an inspiring person. </p>\n<p><strong><a href=\"https://drive.google.com/file/d/1CPHpnrwqEG1I6AIttZ4mUQnl-L6_bXtf/view\" title=\"\">CLICK</a> </strong>here.</p>\n<figure class=\"exe-figure position-center\" style=\"width: 612px;\"><img src=\"{{context_path}}/content/resources/istockphoto-1461537129-612x612.jpg\" width=\"612\" height=\"408\" alt=\"\" />\n<figcaption class=\"figcaption\"><span class=\"author\">pexels</span>. <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/publicdomain/zero/1.0/deed.en\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC0</a><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpfs9d6r-9y2cc4tz3</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>FINAL TASK</pageName>
+  <odeNavStructureOrder>12</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>FINAL TASK</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>FINAL TASK</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpfs9d6r-9y2cc4tz3</odePageId>
+      <odeBlockId>block-1779378483428-a9xuqv4dr</odeBlockId>
+      <blockName>Final task</blockName>
+      <iconName>objectives</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpfs9d6r-9y2cc4tz3</odePageId>
+          <odeBlockId>block-1779378483428-a9xuqv4dr</odeBlockId>
+          <odeIdeviceId>idevice-1779378483427-fufqxpto1</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>We have reached the end of our learning situation. It is time to put into practice everything you have learned throughout the unit.</p>
+<p>In the following link, you will find all the information about the final task that I explained at the beginning of the unit. The time has come to create the video about the person who inspires you.</p>
+<p><strong><a href="https://drive.google.com/file/d/1PhGUlFczqdg53GaGM5wwbOVijAJLzK-g/view" title="">FINAL TASK</a></strong></p>
+<figure class="exe-figure position-center" style="width: 612px;"><img src="{{context_path}}/content/resources/istockphoto-2181318984-612x612.jpg" width="612" height="459" alt="" />
+<figcaption class="figcaption"><span class="author">pexels</span>. <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en" class="license" target="_blank" rel="noopener">CC0</a><span class="sep">)</span></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779378483427-fufqxpto1","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>We have reached the end of our learning situation. It is time to put into practice everything you have learned throughout the unit.</p>\n<p>In the following link, you will find all the information about the final task that I explained at the beginning of the unit. The time has come to create the video about the person who inspires you.</p>\n<p><strong><a href=\"https://drive.google.com/file/d/1PhGUlFczqdg53GaGM5wwbOVijAJLzK-g/view\" title=\"\">FINAL TASK</a></strong></p>\n<figure class=\"exe-figure position-center\" style=\"width: 612px;\"><img src=\"{{context_path}}/content/resources/istockphoto-2181318984-612x612.jpg\" width=\"612\" height=\"459\" alt=\"\" />\n<figcaption class=\"figcaption\"><span class=\"author\">pexels</span>. <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/publicdomain/zero/1.0/deed.en\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC0</a><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpfs9d6r-u8dx0xf42</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>CRÉDITOS</pageName>
+  <odeNavStructureOrder>13</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CRÉDITOS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CRÉDITOS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpfs9d6r-u8dx0xf42</odePageId>
+      <odeBlockId>block-1779381777548-vsgmvtcmf</odeBlockId>
+      <blockName>Créditos</blockName>
+      <iconName>geography</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpfs9d6r-u8dx0xf42</odePageId>
+          <odeBlockId>block-1779381777548-vsgmvtcmf</odeBlockId>
+          <odeIdeviceId>idevice-1779381777546-1o77jxqvx</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>General information about this educational resource</caption>
+<tbody>
+<tr>
+<th>Title</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">INSPIRING PEOPLE</span></td>
+</tr>
+<tr>
+<th>Description</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">En esta unidad los alumnos aprenderán a entender y usar correctamente palabras relacionadas con la descripción de personas, a entender y usar correctamente el past simple y continuous, when, while, subject y object questions, y reconocerlos mediante la lectura de un artículo, a escuchar y entender una entrevista radiofónica sobre un adolescente, a practicar una conversación dando opiniones, a escribir un perfil y a diseñar un vídeo de alguien que nos inspira.
+Los Contenidos Inter-curriculares que se tocan en esta unidad, están relacionados con las Ciencias Sociales, al tratar el tema de las cualidades personales y las profesiones.
+Los Temas Transversales que podemos encontrar en esta unidad tienen que ver con:
+•	Educación para la Paz: La importancia de ayudar a los demás.
+•	Educación para la salud: La importancia de lavarse las manos para estar sanos. 
+•	Educación moral y cívica: La importancia de aceptarse a sí mismo
+NIVEL.
+3º ESO
+
+TEMPORALIZACIÓN.
+12 sesiones de 55 minutos
+
+MATERIA.
+Inglés
+IDIOMA.
+Inglés
+DESCRIPCIÓN GENERAL.
+En esta SdA, el alumnado trabajará con una serie de ejercicios y actividades encaminados a una tarea final donde tendrá que grabar un video sobre una persona que le inspire (ya sea conocido o no. Puede ser desde algún personaje histórico como la madre Teresa de Calcuta a algún miembro de su familia como su padre, madre, abuelo, etc.)
+Para ello:
+•	Los alumnos aprenden adjetivos de personalidad, repasan los antónimos y hacen y responden preguntas sobre cualidades personales.
+•	Los alumnos ojean un artículo de una revista sobre gente sorprendente para obtener la idea principal y después comentan cómo algunas personas pueden inspirar a otras.
+•	Los alumnos aprenden y practican la forma y uso de used to y del past simple y past continuous con when y while.
+•	Los alumnos aprenden patrones de verbos y collocations y practican cómo predecir lo que van a escuchar en una entrevista de radio.
+•	Los alumnos comparan preguntas de sujeto y objeto.
+•	Los alumnos aprenden expresiones clave y adjetivos para pedir y dar opiniones y los utilizan en un diálogo para hablar sobre una visita o una experiencia.
+•	Los alumnos escriben un perfil mediante el uso de conjunciones. 
+•	Los alumnos repasan el vocabulario y la gramática de la unidad.
+•	Los alumnos crean un vídeo sobre una persona inspiradora y aprenden cosas sobre la comunicación verbal y no verbal para hacer presentaciones efectivas
+
+JUSTIFICACIÓN.
+La presente situación de aprendizaje se fundamenta en la reflexión realizada previamente sobre mi práctica docente, en la que se identificaron tanto fortalezas como aspectos de mejora en el uso de metodologías activas y herramientas digitales en el aula.
+En dicha reflexión destaqué como fortalezas el uso habitual de tareas finales, el trabajo cooperativo y la integración progresiva de herramientas digitales. Sin embargo, también se evidenciaron algunas dificultades, como la dependencia de los recursos tecnológicos disponibles, la desigual implicación del alumnado en el trabajo en grupo y el desarrollo desigual de la competencia digital.
+En respuesta a estas conclusiones, esta situación de aprendizaje se ha diseñado de manera flexible, permitiendo adaptaciones y alternativas que garanticen su desarrollo incluso en contextos con acceso limitado a dispositivos, incorporando así posibles planes alternativos ante incidencias técnicas.
+Asimismo, esta propuesta pretende mejorar la implicación del alumnado y fomentar su responsabilidad individual dentro del trabajo en grupo. A través de una secuencia de actividades progresivas y una tarea final motivadora y cercana a su realidad, se busca favorecer su participación activa y su implicación en el proceso de aprendizaje.
+La creación del vídeo como producto final contribuye de manera significativa al desarrollo de la competencia en comunicación lingüística, especialmente en la expresión oral, al mismo tiempo que potencia la competencia digital del alumnado, no solo desde un punto de vista técnico, sino también en aspectos como la planificación, la comunicación audiovisual y el uso responsable de los recursos digitales.
+Por otro lado, la secuencia de actividades está diseñada para asegurar que todo el alumnado adquiera los conocimientos lingüísticos necesarios antes de enfrentarse a la tarea final, favoreciendo así una mayor autonomía y reduciendo posibles desigualdades en la implicación.
+Finalmente, esta propuesta permite trabajar valores transversales como la empatía, el respeto, la superación personal y la ciudadanía digital responsable, aspectos fundamentales en el contexto educativo actual.
+En definitiva, esta situación de aprendizaje surge como una mejora consciente de mi práctica docente, integrando tecnología y metodologías activas de forma reflexiva, planificada y adaptada a la realidad del aula.
+</span></td>
+</tr>
+<tr>
+<th>Authorship</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Ramón Mesa </span></td>
+</tr>
+<tr>
+<th>License</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">Public domain</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">This content was created with <a href="https://exelearning.net/">eXeLearning</a>, your free and open source editor to create educational resources.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Download .elpx file</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpfs9d6s-ts9u7wkxf</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>GUÍA DIDÁCTICA</pageName>
+  <odeNavStructureOrder>14</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>GUÍA DIDÁCTICA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>GUÍA DIDÁCTICA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpfs9d6s-ts9u7wkxf</odePageId>
+      <odeBlockId>block-1779379692163-domno2btr</odeBlockId>
+      <blockName>Guía didáctica</blockName>
+      <iconName>diary_alt</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpfs9d6s-ts9u7wkxf</odePageId>
+          <odeBlockId>block-1779379692163-domno2btr</odeBlockId>
+          <odeIdeviceId>idevice-1779379692161-fr1mmxdg9</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En el siguiente enlace puedes ver la relación de las distintas tareas con sus criterios de evaluación.</p>
+<p><strong><a href="https://drive.google.com/file/d/1GUAGZBmRdAsuT098FFFMeaSTNOTi-1Rd/view?usp=sharing" title="">ENLACE</a> </strong>al documento.</p>
+<p>En este otro puedes acceder a los instrumentos de evaluación más importantes de la SdA. Una diana de evaluación para la autoevaluación y la coevaluación y la rúbrica de la tarea final.</p>
+<p><strong><a href="https://drive.google.com/file/d/1YpOnNT01xRs5pw7DTzELT3R-jO4Jwxhy/view?usp=sharing" title="">ENLACE</a> </strong>al documento.</p>
+<figure class="exe-figure position-center" style="width: 1536px;"><img src="{{context_path}}/content/resources/pexels-mikhail-nilov-8923987.jpg" width="1536" height="2304" alt="" />
+<figcaption class="figcaption"><span class="author">pexels</span>. <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en" class="license" target="_blank" rel="noopener">CC0</a><span class="sep">)</span></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779379692161-fr1mmxdg9","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En el siguiente enlace puedes ver la relación de las distintas tareas con sus criterios de evaluación.</p>\n<p><strong><a href=\"https://drive.google.com/file/d/1GUAGZBmRdAsuT098FFFMeaSTNOTi-1Rd/view?usp=sharing\" title=\"\">ENLACE</a> </strong>al documento.</p>\n<p>En este otro puedes acceder a los instrumentos de evaluación más importantes de la SdA. Una diana de evaluación para la autoevaluación y la coevaluación y la rúbrica de la tarea final.</p>\n<p><strong><a href=\"https://drive.google.com/file/d/1YpOnNT01xRs5pw7DTzELT3R-jO4Jwxhy/view?usp=sharing\" title=\"\">ENLACE</a> </strong>al documento.</p>\n<figure class=\"exe-figure position-center\" style=\"width: 1536px;\"><img src=\"{{context_path}}/content/resources/pexels-mikhail-nilov-8923987.jpg\" width=\"1536\" height=\"2304\" alt=\"\" />\n<figcaption class=\"figcaption\"><span class=\"author\">pexels</span>. <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/publicdomain/zero/1.0/deed.en\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC0</a><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpfs9d6s-ts9u7wkxf</odePageId>
+      <odeBlockId>block-1779381719362-l8yj8l06i</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpfs9d6s-ts9u7wkxf</odePageId>
+          <odeBlockId>block-1779381719362-l8yj8l06i</odeBlockId>
+          <odeIdeviceId>idevice-1779381719360-8cgw9ccwu</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
